@@ -1,7 +1,8 @@
-﻿using ClassicalDesignPatternsInCSharp.Singleton;
-
-namespace ClassicalDesignPatternsInCSharp
+﻿namespace ClassicalDesignPatternsInCSharp
 {
+    using Factories;
+    using Singleton;
+
     public class Program
     {
         /// <summary>
@@ -11,6 +12,9 @@ namespace ClassicalDesignPatternsInCSharp
         {
             // Singleton
             var simpleSingleton = SimpleSingleton.Instance;
+
+            // Factory Method
+            Building sweetHome = new CastleFactory().GetBuilding();
         }
     }
 }
