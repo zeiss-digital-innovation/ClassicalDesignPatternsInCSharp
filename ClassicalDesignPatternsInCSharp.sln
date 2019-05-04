@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2026
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassicalDesignPatternsInCSharp", "ClassicalDesignPatternsInCSharp.csproj", "{2069E9AB-A65F-442A-9FC1-722BB92BC4A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassicalDesignPatterns_UnitTests", "..\ClassicalDesignPatterns_UnitTests\ClassicalDesignPatterns_UnitTests.csproj", "{D349B086-9690-4FBC-BE13-0E792484B6F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2069E9AB-A65F-442A-9FC1-722BB92BC4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2069E9AB-A65F-442A-9FC1-722BB92BC4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2069E9AB-A65F-442A-9FC1-722BB92BC4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D349B086-9690-4FBC-BE13-0E792484B6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D349B086-9690-4FBC-BE13-0E792484B6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D349B086-9690-4FBC-BE13-0E792484B6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D349B086-9690-4FBC-BE13-0E792484B6F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

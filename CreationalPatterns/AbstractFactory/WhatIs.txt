@@ -1,0 +1,2 @@
+﻿Bereitstellung einer Schnittstelle zum Erzeugen verandter oder voneinander abhängiger Objektfalimien
+hne die Bennennung ihrer konkreten Klassen.

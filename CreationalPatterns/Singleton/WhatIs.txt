@@ -1,0 +1,2 @@
+﻿Sicherstellung der Existens nur einer einzigen Klasseninstanz sowie Bereitstellung 
+eines globalen Zugriffspunkts für diese Insanz.
